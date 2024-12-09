@@ -26,13 +26,13 @@ The primary goal is to help users understand and work with these essential data 
 ## How to Run the Code
 
 1. *Prerequisites*:
-   - A C++ compiler (e.g., GCC, MinGW, Visual Studio, or Clang).
+   - A C++ compiler (e.g., GCC, MinGW, Visual Studio, Code Blocks or C++).
    - Git (optional, for cloning the repository).
 
 2. *Steps to Compile and Run*:
    - Clone the repository or download the source code:
      
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Jemhonradez/yFINALS-DSA.git
 cd your-repository
    - Compile the code using a C++ compiler:
      

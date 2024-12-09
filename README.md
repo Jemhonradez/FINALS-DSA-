@@ -35,12 +35,8 @@ The primary goal is to help users understand and work with these essential data 
 git clone https://github.com/Jemhonradez/FINALS-DSA-.git
 cd your-repository
    - Compile the code using a C++ compiler:
+     FINALS.cpp
      
-g++ -o main main.cpp
-   - Run the compiled program:
-     
-./main
-
 3. *Follow the Menu Options*:
    - Select the data structure you want to work with.
    - Use the sub-menu to perform various operations like insertion, deletion, searching, and traversals.

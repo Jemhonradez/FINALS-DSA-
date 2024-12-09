@@ -22,24 +22,37 @@ The program provides a user-friendly interface to interact with these data struc
 The primary goal is to help users understand and work with these essential data structures while visualizing their behavior and operations in real-time.
 
 ---
-
+####
 ## How to Run the Code
 
-1. *Prerequisites*:
-   - A C++ compiler (e.g., GCC, MinGW, Visual Studio, Code Blocks or C++).
-   - Git (optional, for cloning the repository).
+Choosing a Data Structure:
 
-2. *Steps to Compile and Run*:
-   - Clone the repository or download the source code:
-     
-git clone https://github.com/Jemhonradez/FINALS-DSA-.git
-cd your-repository
-   - Compile the code using a C++ compiler:
-     FINALS.cpp
-     
-3. *Follow the Menu Options*:
-   - Select the data structure you want to work with.
-   - Use the sub-menu to perform various operations like insertion, deletion, searching, and traversals.
+- Choose *1* for *Binary Search Tree*.
+- Choose *2* for *Binary Tree*.
+- Choose *3* for *Min Heap*.
+- Choose *4* for *Max Heap*.
+- Choose *5* to exit the program.
+
+### Performing Operations:
+
+#### For *Binary Search Tree (BST)*:
+- *Insert*: Insert a value by choosing the Insert option. The program will prompt you to enter a value, and it will be inserted into the tree.
+- *Display Traversals*: Display the tree in different traversal orders (Preorder, Inorder, Postorder).
+- *Search*: Search for a value by choosing the Search option and entering the value you want to find.
+- *Delete*: Delete a node by selecting the Delete option and entering the value of the node you want to remove.
+
+#### For *Binary Tree*:
+- *Insert*: Insert a node into the binary tree.
+- *Display Traversals*: Display the tree in Preorder, Inorder, or Postorder format.
+- *Search*: Search for a node by entering the value.
+- *Delete*: Delete a node by entering the value, and the node will be removed.
+
+#### For *Min and Max Heaps*:
+- *Insert*: Insert values into the Min-Heap or Max-Heap.
+- *Display Heap*: After each insertion, you can display the heap to view its structure. In a *Min-Heap*, the smallest value will always be at the root, and in a *Max-Heap*, the largest value will be at the root.
+
+### Exiting the Program:
+You can exit the program at any time by selecting *Exit* from the Main Menu.
 
 ---
 

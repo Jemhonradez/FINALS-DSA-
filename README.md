@@ -32,7 +32,7 @@ The primary goal is to help users understand and work with these essential data 
 2. *Steps to Compile and Run*:
    - Clone the repository or download the source code:
      
-git clone https://github.com/Jemhonradez/yFINALS-DSA.git
+git clone https://github.com/FINALS.cpp.git
 cd your-repository
    - Compile the code using a C++ compiler:
      
